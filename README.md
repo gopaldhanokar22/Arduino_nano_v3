@@ -41,6 +41,11 @@ __Software Simulation:__
 
 __Hardware Simulation:__
 
+![IMG-20250330-WA0032](https://github.com/user-attachments/assets/7f315e85-2a4a-40e8-bb65-023249e97539)
+
+![IMG-20250330-WA0037](https://github.com/user-attachments/assets/8a7881bf-170e-43f7-9cb7-267772ccd8b7)
+
+![IMG-20250330-WA0049](https://github.com/user-attachments/assets/15f6498a-a305-44ac-b61f-43d82faadfc3)
 
 __Working:__\
 Traffic Light Sequence:\
@@ -246,6 +251,8 @@ __Software Simulation:__
 
 __Harware Simulation:__
 
+![IMG-20250330-WA0039](https://github.com/user-attachments/assets/1b7a785f-0468-417b-85bd-9adce59913be)
+
 __Project Code:__
 ```
 // Pin mapping for 7-segment display segments (Common Cathode Type)
@@ -355,6 +362,10 @@ __Software Simulation:__
 
 __Hardware Simulation:__
 
+![IMG-20250330-WA0030](https://github.com/user-attachments/assets/d07ec1cd-df53-4d0f-a402-703bc331a2c3)
+
+![IMG-20250330-WA0046](https://github.com/user-attachments/assets/cb749ab9-caec-4335-a6b8-0778676ec302)
+
 __Project Code:__
 ```
 #include <LiquidCrystal.h> // Library for LCD interfacing
@@ -452,6 +463,15 @@ __Software Simulation:__
 
 
 __Hardware Simulation:__
+
+![IMG-20250330-WA0045](https://github.com/user-attachments/assets/43f0c2f1-40bd-4874-951b-4fa11f5b6df7)
+
+![IMG-20250330-WA0038](https://github.com/user-attachments/assets/2851e083-6917-44e8-9d06-9fd3ea973ea2)
+
+![IMG-20250330-WA0036](https://github.com/user-attachments/assets/0613e05a-ea82-4fe7-97f9-6db4cb9afe13)
+
+![IMG-20250330-WA0034](https://github.com/user-attachments/assets/81bf6aea-3612-45e4-bf38-45c0d728e8f7)
+
 
 __Project code:__
 ```
@@ -733,6 +753,11 @@ Displaying Temperature Data:
 __Software Simulation:__
 ![image](https://github.com/user-attachments/assets/12a51cd7-5230-4b60-abd9-f1a5409e9b6f)
 
+__Hardware Simulation:__
+
+![IMG-20250330-WA0028](https://github.com/user-attachments/assets/4950b213-c357-4eaa-ba6b-a76307b67896)
+
+![IMG-20250330-WA0029](https://github.com/user-attachments/assets/e99775f6-c9d2-4361-8cd1-824ac2d3f585)
 
 __Project Code:__
 ```
@@ -799,6 +824,10 @@ Displaying Data on LCD:
  - The data refreshes every 2 seconds.
 
 __Hardware Simulation:__
+
+![IMG-20250330-WA0047](https://github.com/user-attachments/assets/d1d6fbe9-2747-47eb-a1a9-5612d43151b3)
+
+![IMG-20250330-WA0044](https://github.com/user-attachments/assets/eb14ea4f-abc2-487d-9b95-94755586c8b4)
 
 __Project Code:__
 ```
@@ -887,6 +916,10 @@ __Software Simulation:__
 
 __Hardware Simulation:__
 
+![IMG-20250330-WA0031](https://github.com/user-attachments/assets/161a0b7e-0ec1-4e0b-8579-41485655794a)
+
+![IMG-20250330-WA0035](https://github.com/user-attachments/assets/8645c530-1df2-4313-8ef2-1918a3f5dd11)
+
 __Project Code:__
 ```
 #include <Arduino.h>
@@ -961,6 +994,12 @@ __Software Simulation:__
 
 
 __Hardware Simulation:__
+
+![IMG-20250330-WA0042](https://github.com/user-attachments/assets/3c99701e-f45f-4962-bfc7-bc6f9e1e4c8f)
+
+![IMG-20250330-WA0043](https://github.com/user-attachments/assets/745280e8-f189-44ea-894c-e9adeb407191)
+
+![IMG-20250330-WA0048](https://github.com/user-attachments/assets/e1313c48-da04-4d6f-8a43-5f84f66dfca0)
 
 __Project Code:__
 ```
@@ -1101,6 +1140,9 @@ __Software Simulation:__
 
 __Hardware Simulation:__
 
+![IMG-20250330-WA0041](https://github.com/user-attachments/assets/e81becfe-1b49-46cd-a675-88cc25cf580b)
+
+![IMG-20250330-WA0033](https://github.com/user-attachments/assets/fed5de6c-94fa-4a65-8754-e74b9df67bc0)
 
 __Project Code:__
 ```
