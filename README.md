@@ -28,7 +28,8 @@ __Hardware Components Required:__
 
 __Hardware Connection:__
 
-![image](https://github.com/user-attachments/assets/0a69935d-5159-4487-9c19-d96b60298742)
+ - Arduino 10, 11, 12 --> LED RED, LED YELLOW, LED GREEN
+ - Arduino GND --> GND
 
 
 __Software Used:__
