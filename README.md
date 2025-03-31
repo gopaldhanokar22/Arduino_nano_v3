@@ -160,6 +160,15 @@ __software Simulation:__
 
 __Hardware Simulation:__
 
+![IMG-20250331-WA0042](https://github.com/user-attachments/assets/a9fa896f-195e-4933-bf02-b83d6a10413d)
+
+![IMG-20250331-WA0039](https://github.com/user-attachments/assets/e240ea2e-f109-47d9-a768-90dfc11071d3)
+
+![IMG-20250331-WA0040](https://github.com/user-attachments/assets/37dad3f6-0b2f-4c74-b0bb-fe50bfe756cf)
+
+![IMG-20250331-WA0055](https://github.com/user-attachments/assets/8de82612-bafc-4c6e-b75a-999145ae9d3e)
+
+
 __Project code:__
 ```
 #include <Wire.h>
@@ -591,6 +600,14 @@ __Software Simulation:__
 
 __Hardware Simulation:__
 
+![IMG-20250331-WA0035](https://github.com/user-attachments/assets/37611983-e2e8-4e4f-8f86-29e404862379)
+
+![IMG-20250331-WA0038](https://github.com/user-attachments/assets/8e35d625-345d-4517-88e1-83c7b5ec4f7d)
+
+![IMG-20250331-WA0048](https://github.com/user-attachments/assets/583d4ce1-e975-4316-b494-604974344332)
+
+![IMG-20250331-WA0046](https://github.com/user-attachments/assets/3d692315-d7bb-4574-821b-3998e76adf61)
+
 __Project Code:__
 ```
 #include <Arduino.h>
@@ -673,6 +690,14 @@ __Software Simulation:__
 
 
 __Hardware Simulation:__
+
+![IMG-20250331-WA0052](https://github.com/user-attachments/assets/fa6f29e2-8151-4fae-ba4d-de4e1129b582)
+
+![IMG-20250331-WA0043](https://github.com/user-attachments/assets/b020a2c5-e55d-4ac3-8d28-4d315899fd5b)
+
+![IMG-20250331-WA0041](https://github.com/user-attachments/assets/ba4a7bdf-a54a-46fa-8326-48d37ecb97d2)
+
+![IMG-20250331-WA0036](https://github.com/user-attachments/assets/6760406d-af81-4e32-8970-dfc655f47cc3)
 
 __Project Code:__
 ```
