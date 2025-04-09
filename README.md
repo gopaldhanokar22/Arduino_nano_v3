@@ -144,6 +144,7 @@ __1. Hardware Components Required:__
  - 5V Power Supply – Can be provided via Arduino USB or external adapter.
 
 __2. Hardware Connections:__
+
 ![image](https://github.com/user-attachments/assets/f2fd20a8-935c-4a41-8a6f-81054c095f7e)
 
  - The switches are configured using internal pull-up resistors in the code.
@@ -174,6 +175,7 @@ Continuous Execution:
 - The process runs in an infinite loop (loop() function), ensuring that the system responds to button presses continuously.
 
 __software Simulation:__
+
 ![image](https://github.com/user-attachments/assets/e4660ee2-7f8f-4d23-8346-503a71b62168)
 
 
@@ -245,6 +247,7 @@ __1. Hardware Components Required:__
  - 5V Power Supply – Provided via Arduino or an external source.
 
 2. Hardware Connections:\
+
 ![image](https://github.com/user-attachments/assets/99bd85bd-b39d-4ef2-8548-85d91f114c4d)
 
  - The seven segments (a-g) are connected to digital pins (D2-D8) on the Arduino nano.
@@ -460,6 +463,7 @@ __1. Hardware Components Required:__
  - 5V Power Supply – Provided via Arduino or an external source.
 
 __2. Hardware Connections:__
+
 ![image](https://github.com/user-attachments/assets/716b8635-3587-4ea6-a29b-a1c0f5731237)
 
 __3. Software Used:__
@@ -592,6 +596,7 @@ __1. Hardware Components Required:__
  - Breadboard & Jumper Wires – For circuit assembly.
 
 __2. Hardware Connections:__
+
 ![image](https://github.com/user-attachments/assets/1ad107ef-eefb-474a-adb7-f514aa75ea26)
 
 __3. Software Used:__
@@ -682,6 +687,7 @@ Display the servo angle on a connected LCD display\
  - Breadboard & Jumper Wires – For circuit assembly.
 
 3. Hardware Connections:
+
 ![image](https://github.com/user-attachments/assets/3c94f664-ce32-4171-ac19-f9431a4e4a82)
 
 4. Software Used:
@@ -774,6 +780,7 @@ __1. Hardware Components Required:__
 - Breadboard & Jumper Wires – For circuit assembly.
 
 __2. Hardware Connections:__
+
 ![image](https://github.com/user-attachments/assets/30c05f1e-7de0-405c-9760-69467156f5eb)
 
 __3. Software Used:__
@@ -788,6 +795,7 @@ __5. Working of the Project:__
 Reading Temperature Data:
  - The LM35 outputs an analog voltage proportional to the temperature.
  - The Arduino reads this analog voltage and converts it into a temperature value using:
+
 ![image](https://github.com/user-attachments/assets/3db3495e-e1ca-410e-b9b7-ee581c0bd851)
 
 Displaying Temperature Data:
@@ -795,6 +803,7 @@ Displaying Temperature Data:
  - The temperature reading updates every second.
 
 __Software Simulation:__
+
 ![image](https://github.com/user-attachments/assets/12a51cd7-5230-4b60-abd9-f1a5409e9b6f)
 
 __Hardware Simulation:__
@@ -846,6 +855,7 @@ __1. Hardware Components Required:__
  - Breadboard & Jumper Wires – For circuit assembly.
 
 __2. Hardware Connections:__
+
 ![image](https://github.com/user-attachments/assets/dae84803-4f3e-453e-94ee-61e2d9eb4243)
 
 __3. Software Used:__
@@ -930,6 +940,7 @@ __1. Hardware Components Required:__
  - Breadboard & Jumper Wires – For circuit assembly.
 
 __2. Hardware Connections:__
+
 ![image](https://github.com/user-attachments/assets/674204cb-c1cb-472b-9cf8-b081d405cd82)
 
 __3. Software Used:__
@@ -955,6 +966,7 @@ Alert System:
  - The LCD updates every 500ms to ensure real-time fire monitoring.
 
 __Software Simulation:__
+
 ![image](https://github.com/user-attachments/assets/899a5da8-c9ae-4548-8408-1fe1bfadb64a)
 
 
@@ -1014,6 +1026,7 @@ __1. Hardware Components Required:__
  - Breadboard & Jumper Wires – For connections
 
 __2. Hardware Connections:__
+
 ![image](https://github.com/user-attachments/assets/996fe292-bbb2-40a3-8561-5b79b0043a1e)
 
 __3. Software Used:__
@@ -1078,6 +1091,7 @@ __1. Hardware Components Required:__
  - 5V Power Supply – To power the system
 
 __2. Hardware Connections:__
+
 ![image](https://github.com/user-attachments/assets/7e4057d7-4a0c-40b2-aad0-5407609b3c27)
 
 __3. Software Used:__
@@ -1154,6 +1168,7 @@ __1. Hardware Components Required:__
  - 5V Power Supply – To power the system
 
 __2. Hardware Connections:__
+
 ![image](https://github.com/user-attachments/assets/1ce24422-0169-4bf3-a8ef-399f9aed6612)
 
 __3. Software Used:__
@@ -1177,6 +1192,7 @@ Displaying the Data:
  - The LCD displays an "ALERT: Object!" message.
 
 __Software Simulation:__
+
 
 ![image](https://github.com/user-attachments/assets/2b6ed353-116e-4360-ac2d-9fde4a79dac0)
 
